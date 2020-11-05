@@ -1,0 +1,4 @@
+#!/bin/sh
+cp template.md new-post.md
+echo "new-post.md created"
+vim new-post.md
