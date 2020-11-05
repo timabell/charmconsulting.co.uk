@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Tim Abell
+name: Charm Consulting Ltd.
 
 # Name of the author
 author: Tim Abell
 
 # Short bio or description (displayed in the header)
-description: Helping teams ship software to be proud of.
+description: Successful software delivery
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://en.gravatar.com/userimage/5102970/962f6ea1bf5118338fd13ee13eb799d0.jpeg
@@ -21,15 +21,15 @@ avatar: https://en.gravatar.com/userimage/5102970/962f6ea1bf5118338fd13ee13eb799
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: blog@timwise.co.uk
+  email: consulting@timwise.co.uk
   facebook:
   flickr:
-  github: timabell
+  github:
   instagram:
   linkedin: timabell
   pinterest:
   rss: rss
-  twitter: tim_abell
+  twitter:
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -38,15 +38,15 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: timwise
+disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-3978538-2
+google_analytics:
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: https://timwise.co.uk
-enforce_ssl: https://timwise.co.uk
+url: https://charmconsulting.co.uk
+enforce_ssl: https://charmconsulting.co.uk
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
