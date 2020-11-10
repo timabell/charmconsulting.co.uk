@@ -21,7 +21,7 @@ Get 30 mins of my time, no risk, no commitment.
 
 [Organise a time](mailto:consulting@timwise.co.uk?subject=book my advice call).
 
-~~£200~~ `£0.00` -- Free until I run out of steam!
+~~£200~~ `£0.00` -- Free until we run out of steam!
 
 ### Assessment of Risks and Opportunities
 
