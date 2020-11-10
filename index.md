@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-{% assign excerpt_limit = 3 %}
-
 # Successful Software Delivery
 
 If you're about to embark on new software project.... **stop!** and talk to us first. Great software delivery is hard, and full of pitfalls. Plenty of people will just say yes to anything you want. You need to hear the hard truths now from someone you can trust to tell it to you straight.
