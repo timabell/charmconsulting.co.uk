@@ -21,16 +21,12 @@ Get 30 mins of my time, no risk, no commitment.
 
 [Organise a time](mailto:consulting@timwise.co.uk?subject=book my advice call).
 
-~~£200~~ `£0.00` -- Free until we run out of steam!
-
 ### Assessment of Risks and Opportunities
 
 * Calls with key stakeholders.
 * Assessment of key factors that will contribute to success/failure of your proposed project.
 * Suggestions of alternate solutions.
 * Two page report on strengths, risks and actions to take to ensure success. If we think the project should be abandoned or radically changed we'll say that too.
-
-`£5k+`
 
 ### Project Setup, Mentoring & Oversight
 
@@ -40,19 +36,17 @@ If you have other people you'd like to use for delivery but you want an independ
 * Assitance with interviewing/filtering team members.
 * Oversight of progress, re-assessment of risk.
 
-`£15k+`
+### Prototype / Alpha / Beta / Phase(s)
 
-### Alpha / Prototype Phase
-
-Build early version of products that can be tested with end-users / customers and iterated upon.
-
-`£50k+`
+Build of early versions of products and services that can be tested with end-users / customers and iterated upon.
 
 ### Live Delivery Phase(s)
 
 Create production-grade software, delivered on a regular cadence to end users.
 
-`£50k+`
+### Retainers
+
+Retainers are available to provide access to expertise as needed.
 
 ### Custom Engagements
 
