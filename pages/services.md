@@ -13,11 +13,15 @@ Projects can be greenfield, brownfield or legacy.
 
 Each stage contains no commitment to move to the next with us.
 
-### Free 30 min Advice Call
+### Free 30 Minute Advice Call
 
-Get 30 mins of my time, no risk, no commitment.
+> "I really need to know if I'm missing something before paying to build this software"
 
-* Get a new perspective on the fundamentals that will result in success or failure.
+Get 30 mins of our expert's time, no risk, no commitment.
+
+Get a new perspective on the fundamentals that will result in success or failure.
+
+By seeking expert opinion you'll avoid throwing money away on a doomed project, or wasting money on outdated technology and practices.
 
 [Organise a time](mailto:consulting@timwise.co.uk?subject=book my advice call).
 
