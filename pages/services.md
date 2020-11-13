@@ -27,17 +27,21 @@ By seeking expert opinion you'll avoid throwing money away on a doomed project, 
 
 ### Assessment of Risks and Opportunities
 
+> "What's going to trip us up if we kick off this project? Do we have any organisational or technical problems we should be looking into to ensure we aren't wasting money?"
+
+1-2 weeks of research into your organisation's capabilities and challenges, resulting in a report that will give you the top ten biggest threats to your project and advice on tackling each one.
+
 * Calls with key stakeholders.
 * Assessment of key factors that will contribute to success/failure of your proposed project.
-* Suggestions of alternate solutions.
-* Two page report on strengths, risks and actions to take to ensure success. If we think the project should be abandoned or radically changed we'll say that too.
+
+With this report in hand you'll be able to adjust course and focus on the key areas that will give your project the best chance of success.
 
 ### Project Setup, Mentoring & Oversight
 
-If you have other people you'd like to use for delivery but you want an independent trusted voice we can provide assitance with intial project setup, and ongoing oversight.
+If you have other people you'd like to use for delivery but you want an independent trusted voice we can provide assistance with initial project setup, and ongoing oversight.
 
 * Technology and process strategy/guidance.
-* Assitance with interviewing/filtering team members.
+* Assistance with interviewing/filtering team members.
 * Oversight of progress, re-assessment of risk.
 
 ### Prototype / Alpha / Beta / Phase(s)
