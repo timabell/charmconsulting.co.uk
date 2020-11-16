@@ -22,3 +22,19 @@ We're not here to sycophantically tell you your project is the best idea ever an
 ## Let's Chat
 
 [Drop me an email](mailto:consulting@timwise.co.uk) to arrange a time for your free 30 min advice call.
+
+---
+
+## Clients
+
+<div id="client-list">
+<ul>
+<li><img alt="" src="/assets/clients/esynergy.png" style="height: 1.2em;vertical-align: middle;padding-bottom:0.2em;"/>eSynergy-Solutions</li>
+<li>National Careers Service</li>
+<li>Department for Education</li>
+<li>Capita IT Professional Services</li>
+<li>Solidsoft Reply</li>
+<li>Government Digital Service (GDS)</li>
+<li>Audatex (Solera Group)</li>
+</ul>
+</div>
