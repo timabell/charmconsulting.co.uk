@@ -12,3 +12,5 @@ We are now offering:
 * Free 30 minute assessment calls, resulting in advice on possible ways forward for your project.
 * Initial project discovery, resulting in a feasibility and options report.
 * Full project delivery in low-risk stages.
+
+Head over to [Services](/services) for more details of what's on offer.
