@@ -27,14 +27,10 @@ We're not here to sycophantically tell you your project is the best idea ever an
 
 ## Clients
 
-<div id="client-list">
-<ul>
-<li>eSynergy-Solutions</li>
-<li>National Careers Service</li>
-<li>Department for Education</li>
-<li>Capita IT Professional Services</li>
-<li>Solidsoft Reply</li>
-<li>Government Digital Service (GDS)</li>
-<li>Audatex (Solera Group)</li>
-</ul>
-</div>
+* [National Careers Service](https://nationalcareers.service.gov.uk/)
+* [DfE Digital (Department for Education)](https://dfedigital.blog.gov.uk/about/)
+* [eSynergySolutions](https://www.esynergy-solutions.co.uk/)
+* [Capita IT Professional Services](https://www.capita.com/expertise/it-solutions/it-services)
+* [Solidsoft Reply](https://www.reply.com/solidsoft-reply/)
+* [Audatex (Solera Group)](https://www.audatex.co.uk/)
+* [Government Digital Service (GDS)](https://www.gov.uk/government/organisations/government-digital-service)
