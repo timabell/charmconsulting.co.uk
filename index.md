@@ -29,7 +29,7 @@ We're not here to sycophantically tell you your project is the best idea ever an
 
 <div id="client-list">
 <ul>
-<li><img alt="" src="/assets/clients/esynergy.png" style="height: 1.2em;vertical-align: middle;padding-bottom:0.2em;"/>eSynergy-Solutions</li>
+<li>eSynergy-Solutions</li>
 <li>National Careers Service</li>
 <li>Department for Education</li>
 <li>Capita IT Professional Services</li>
