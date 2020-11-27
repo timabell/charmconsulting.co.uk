@@ -66,20 +66,21 @@ Now that you know your team is A++ you can:
 ### Give the team the green light
 
 1. Make it clear you are all in this together and you see paying down the debt as a priority.
-2. Listen to calls to rewrite but be wary of okaying them as they are often the road to a different ruin and are often born out of frustration rather than rational thought.
-3. Give the team air-cover from the rest of the organisation to adjust the balance of feature vs quality improvement in sprints and make a work for other people in the process.
-4. Ask questions about the underlying reasons for the problems, don't switch off just "because it's technical".
-5. Provide business context, which areas of the system are likely to need new features next, are there any deadlines or priorities coming down the line that would affect which problems to fix first?
-6. Give the team a ratio for the sprints, say 30% pay-down time, 70% feature time but don't actually enforce it, it's more about giving permission to make things better.
-7. Continue to ship user-value and build credibility as a delivery team within the organisation, don't just disappear for months "because debt"!
-8. Trust your team, if you have the right people and give them the backing and space they will turn the system around.
-9. Make it clear that nothing is off limits - is the original architecture flawed? That can be fixed.
-10. Encourage tackling harder problems properly, like continuous delivery and end to end automated regression testing.
-11. Emphasise the iterative approach. Many small bets over one big rewrite.
-12. Talk about best practices and see how far away your organisation is, what examples / videos / blog posts / speakers can people bring to the team to learn from and aspire to?
-13. Make sure end users are involved via "user research" - maybe a particularly thorny area isn't something they even care about and can be turned off, or replaced with a far simpler solution.
-14. Celebrate successes.
-15. Spread the love to the wider organisation. Be visibly successful.
+2. Get buy-in from your project sponsors to do the hard things needed to get back to great shipping.
+3. Listen to calls to rewrite but be wary of okaying them as they are often the road to a different ruin and are often born out of frustration rather than rational thought.
+4. Give the team air-cover from the rest of the organisation to adjust the balance of feature vs quality improvement in sprints and make a work for other people in the process.
+5. Ask questions about the underlying reasons for the problems, don't switch off just "because it's technical".
+6. Provide business context, which areas of the system are likely to need new features next, are there any deadlines or priorities coming down the line that would affect which problems to fix first?
+7. Give the team a ratio for the sprints, say 30% pay-down time, 70% feature time but don't actually enforce it, it's more about giving permission to make things better.
+8. Continue to ship user-value and build credibility as a delivery team within the organisation, don't just disappear for months "because debt"!
+9. Trust your team, if you have the right people and give them the backing and space they will turn the system around.
+10. Make it clear that nothing is off limits - is the original architecture flawed? That can be fixed.
+11. Encourage tackling harder problems properly, like continuous delivery and end to end automated regression testing.
+12. Emphasise the iterative approach. Many small bets over one big rewrite.
+13. Talk about best practices and see how far away your organisation is, what examples / videos / blog posts / speakers can people bring to the team to learn from and aspire to?
+14. Make sure end users are involved via "user research" - maybe a particularly thorny area isn't something they even care about and can be turned off, or replaced with a far simpler solution.
+15. Celebrate successes.
+16. Spread the love to the wider organisation. Be visibly successful.
 
 ## How will I know when I've got there?
 
