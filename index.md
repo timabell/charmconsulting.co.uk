@@ -1,31 +1,21 @@
 ---
 layout: default
 ---
-# Successful Software Delivery
+# Systems Integration
 
-If you're about to embark on new software project.... **stop!** Talk to us first. Great software delivery is hard, and full of pitfalls. Plenty of people will just say yes to anything you want. You need to hear the hard truths now from someone you can trust to tell it to you straight.
+Charm Consulting offers systems integration services to eCommerce businesses looking to streamline operations, eliminate manual processes and give a better a service to customers.
 
-Head over to [Services](/services/) to get started.
+# About Us
 
-### Greenfield Projects
+Founded in 2012 by [Tim Abell](https://timwise.co.uk/) Charm Consulting has previously focussed on custom software delivery. As of 2021 Charm Consulting is growing its delivery capability and switching focus to systems integration.
 
-Considering laying down fresh new code in an untouched area of your business? Lucky you, enjoy the thrill, but let us help you avoid the mistakes we've seen before.
+# Let's Chat
 
-### Brownfield / Legacy / Rescue Projects
+Let's get talking about solving your software and integration problems: [email us now](mailto:tim@charmconsulting.co.uk) or call on [07779 577969](tel:+447779577969).
 
-Previous team couldn't deliver? Drowning in bugs? We have extensive experience in turning around projects that could never seem to ship great product.
+# Clients
 
-## No B.S.
-
-We're not here to sycophantically tell you your project is the best idea ever and will succeed in every possible way no matter what. That helps no-one. We're here to bring hard truths to you fast, so you can act to turn failure into success.
-
-## Let's Chat
-
-[Drop me an email](mailto:consulting@timwise.co.uk) to arrange a time for your free 30 min advice call.
-
----
-
-## Clients
+## Previous Clients Of Our Software Delivery Services
 
 * [National Careers Service](https://nationalcareers.service.gov.uk/)
 * [DfE Digital (Department for Education)](https://dfedigital.blog.gov.uk/about/)
