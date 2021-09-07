@@ -131,7 +131,7 @@ This story and project has been a collaboration between eSynergy Solutions and C
 * [Charm Consulting](https://charmconsulting.co.uk/) - delivery focussed software consultancy.
 * [eSynergy Solutions](https://www.esynergy-solutions.co.uk/) - medium to large scale assessments, delivery and transformation.
 
-If you can relate and want some help, drop me a mail at [tim@timwise.co.uk](mailto:tim@timwise.co.uk)
+If you can relate and want some help, drop me a mail at [tim@charmconsulting.co.uk](mailto:tim@charmconsulting.co.uk)
 
 ## Further reading
 

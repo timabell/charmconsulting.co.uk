@@ -23,7 +23,7 @@ Get a new perspective on the fundamentals that will result in success or failure
 
 By seeking expert opinion you'll avoid throwing money away on a doomed project, or wasting money on outdated technology and practices.
 
-[Organise a time](mailto:consulting@timwise.co.uk?subject=book my advice call).
+[Organise a time](mailto:tim@charmconsulting.co.uk?subject=book my advice call).
 
 ### Assessment of Risks and Opportunities
 
@@ -58,7 +58,7 @@ Retainers are available to provide access to expertise as needed.
 
 ### Custom Engagements
 
-If you like what we do but the above doesn't fit then [get in touch](mailto:consulting@timwise.co.uk?subject=Custom consulting request) to discuss options.
+If you like what we do but the above doesn't fit then [get in touch](mailto:tim@charmconsulting.co.uk?subject=Custom consulting request) to discuss options.
 
 ---
 *All prices exclude VAT*
