@@ -1,21 +1,21 @@
 ---
 layout: default
 ---
-# Systems Integration
+## Systems Integration
 
 Charm Consulting offers systems integration services to eCommerce businesses looking to streamline operations, eliminate manual processes and give a better a service to customers.
 
-# About Us
+## About Us
 
 Founded in 2012 by [Tim Abell](https://timwise.co.uk/) Charm Consulting has previously focussed on custom software delivery. As of 2021 Charm Consulting is growing its delivery capability and switching focus to systems integration.
 
-# Let's Chat
+## Let's Chat
 
 Let's get talking about solving your software and integration problems: [email us now](mailto:tim@charmconsulting.co.uk) or call on [07779 577969](tel:+447779577969).
 
-# Clients
+## Clients
 
-## Previous Clients Of Our Software Delivery Services
+Previous clients of our software delivery services:
 
 * [National Careers Service](https://nationalcareers.service.gov.uk/)
 * [DfE Digital (Department for Education)](https://dfedigital.blog.gov.uk/about/)
