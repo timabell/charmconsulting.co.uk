@@ -5,9 +5,11 @@ layout: default
 
 Charm Consulting offers systems integration services to eCommerce businesses looking to streamline operations, eliminate manual processes and give a better a service to customers.
 
+We are specialising in using [Codeless Platform's Business Process Automation]([https://www.codelessplatforms.com/business-process-automation-platform/) (BPA) to solve your integration problems, but will consider other solutions including leveraging our extensive custom software development experience.
+
 ## About Us
 
-Founded in 2012 by [Tim Abell](https://timwise.co.uk/) Charm Consulting has previously focussed on custom software delivery. As of 2021 Charm Consulting is growing its delivery capability and switching focus to systems integration.
+Founded in 2012 by [Tim Abell](https://www.linkedin.com/in/timabell/) Charm Consulting has previously focussed on custom software delivery. As of August 2021 Charm Consulting is growing its delivery capability beyond the founder's own skills and switching focus to systems integration.
 
 ## Let's Chat
 
