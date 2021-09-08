@@ -24,3 +24,5 @@ Previous clients of our software delivery services:
 * [Solidsoft Reply](https://www.reply.com/solidsoft-reply/)
 * [Audatex (Solera Group)](https://www.audatex.co.uk/)
 * [Government Digital Service (GDS)](https://www.gov.uk/government/organisations/government-digital-service)
+
+We'll be adding happy customers of our new integration services here as soon as we have got the ball rolling on the new venture, early days at the moment! If you'd be interested in discounted rates for integration work in exchange for a case study then please do get in touch.
