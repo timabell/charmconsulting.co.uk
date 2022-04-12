@@ -57,6 +57,10 @@ Things I've heard said before that mean you are in this boat:
 
 Technical debt is often a result of organisational problems, and as such the solution is not purely technical (although the actual work of fixing the software largely is).
 
+### You need the right organisational structure
+
+It's important to have clear lines of responsibility and the ability for a senior technical leader such as a CTO or Head of Engineering to make and defend architectural and cultural decisions that may sometimes be at odds with short term goals, and may even require other parts of the business to do things differently. There's a 3-part podcast series on this subject you can find here which is worth a listen: [Developing Leadership - A Deep Dive Into Engineering Leadership Roles, Part 1](https://www.developingleadership.co/episode/episode-6-a-deep-dive-into-engineering-leadership-roles-part-1)
+
 ### You need great technical people
 
 Make sure you have a capable development team. Any sub-standard developers on your team will drag the whole thing down.
