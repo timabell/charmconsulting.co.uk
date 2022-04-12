@@ -59,7 +59,7 @@ Technical debt is often a result of organisational problems, and as such the sol
 
 ### You need the right organisational structure
 
-It's important to have clear lines of responsibility and the ability for a senior technical leader such as a CTO or Head of Engineering to make and defend architectural and cultural decisions that may sometimes be at odds with short term goals, and may even require other parts of the business to do things differently. There's a 3-part podcast series on this subject you can find here which is worth a listen: [Developing Leadership - A Deep Dive Into Engineering Leadership Roles, Part 1](https://www.developingleadership.co/episode/episode-6-a-deep-dive-into-engineering-leadership-roles-part-1)
+It's important to have clear lines of responsibility and the ability for a senior technical leader such as a CTO or Head of Engineering to make and defend architectural and cultural decisions that may sometimes be at odds with short term goals, and may even require other parts of the business to do things differently. There's a 3-part podcast series on this subject you can find here which is worth a listen: ["Developing Leadership - A Deep Dive Into Engineering Leadership Roles, Part 1"](https://www.developingleadership.co/episode/episode-6-a-deep-dive-into-engineering-leadership-roles-part-1) ([part 2](https://www.developingleadership.co/episode/developing-leadership-ep-7-a-deep-dive-into-engineering-leadership-roles-part-2) / [part 3](https://www.developingleadership.co/episode/episode-8-a-deep-dive-into-engineering-leadership-roles-part-3))
 
 ### You need great technical people
 
