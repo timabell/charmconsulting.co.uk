@@ -68,7 +68,7 @@ Now that you know your team is A++ you can:
 1. Make it clear you are all in this together and you see paying down the debt as a priority.
 2. Get buy-in from your project sponsors to do the hard things needed to get back to great shipping.
 3. Listen to calls to rewrite but be wary of okaying them as they are often the road to a different ruin and are often born out of frustration rather than rational thought.
-4. Give the team air-cover from the rest of the organisation to adjust the balance of feature vs quality improvement in sprints and make a work for other people in the process.
+4. Give the team air-cover from the rest of the organisation to adjust the balance of feature vs quality improvement in sprints.
 5. Ask questions about the underlying reasons for the problems, don't switch off just "because it's technical".
 6. Provide business context, which areas of the system are likely to need new features next, are there any deadlines or priorities coming down the line that would affect which problems to fix first?
 7. Give the team a ratio for the sprints, say 30% pay-down time, 70% feature time but don't actually enforce it, it's more about giving permission to make things better.
