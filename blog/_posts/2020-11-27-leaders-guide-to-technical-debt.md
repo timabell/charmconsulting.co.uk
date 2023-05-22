@@ -17,6 +17,8 @@ Let's go back a bit and see if you've got any signs of similar problems:
 
 ## Signs you have a technical debt problem
 
+![graph of delivery speed falling as tech debt builds](/assets/blog/graph-debt-vs-delivery.png)
+
 * Long lead time on features (more than a month from idea to shipping).
 * Developers complaining about "technical debt" or "bad code".
 * Low throughput of features, you can only get one or two pieces of user value out of each two week sprint, if that.
