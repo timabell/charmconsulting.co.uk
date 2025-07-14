@@ -39,7 +39,7 @@ Founded in 2012 by [Tim Abell](https://timwise.co.uk/) Charm Consulting focusses
 
 ## Let's Chat
 
-Let's talk about what you want to build or fix: [email us now](mailto:tim@charmconsulting.co.uk) or call on [07779 577969](tel:+447779577969).
+Let's talk about what you want to build or fix: [email us now](mailto:tim@charmconsulting.co.uk) or [book an informal chat with Tim](/meet).
 
 ## Previous Clients
 
