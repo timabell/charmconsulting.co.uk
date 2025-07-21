@@ -39,7 +39,7 @@ Founded in 2012 by [Tim Abell](https://timwise.co.uk/) Charm Consulting focusses
 
 ## Let's Chat
 
-Let's talk about what you want to build or fix: [email us now](mailto:tim@charmconsulting.co.uk) or [book an informal chat with Tim](/meet).
+Let's talk about what you want to build or fix: [email us now](mailto:tim@charmconsulting.co.uk) or [book an informal chat with Tim](/meet/).
 
 ## Previous Clients
 
@@ -50,4 +50,3 @@ Let's talk about what you want to build or fix: [email us now](mailto:tim@charmc
 * [Solidsoft Reply](https://www.reply.com/solidsoft-reply/)
 * [Audatex (Solera Group)](https://www.audatex.co.uk/)
 * [Government Digital Service (GDS)](https://www.gov.uk/government/organisations/government-digital-service)
-
